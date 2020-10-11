@@ -2,7 +2,7 @@
 I am a 1<sup>st</sup> year IT student at [hogeschool Windesheim](https://www.windesheim.nl/).
 
 #### 📚 These are my most used programming languages
-![most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jord1e&layout=compact&langs_count=6&hide_border=true&hide_title=true&theme=solairzed_light")
+![most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jord1e&layout=compact&langs_count=6&hide_border=false&hide_title=true&theme=solairzed_light")
 
 
 <!--
