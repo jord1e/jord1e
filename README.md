@@ -1,8 +1,9 @@
-### Hi there 👋
-<hr>
+### Hi there, my name is Jordie 👋
+I am a 1<sup>st</sup> year IT student at [hogeschool Windesheim](https://www.windesheim.nl/).
 
+#### 📚 These are my most used programming languages
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jord1e&layout=compact&langs_count=6&hide_border=true&hide_title=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jord1e&layout=compact&langs_count=6&hide_border=true&hide_title=true&theme=solairzed_light"/>
 </a>
 
 
