@@ -2,7 +2,7 @@
 <hr>
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jord1e&layout=compact&langs_count=6&hide_border=true&hide_title=true&theme=react"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jord1e&layout=compact&langs_count=6&hide_border=true&hide_title=true"/>
 </a>
 
 
