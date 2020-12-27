@@ -11,5 +11,5 @@ I am a 1<sup>st</sup> year IT student at [hogeschool Windesheim](https://www.win
 </a>
 ![jordieh's Github stats](https://github-readme-stats.vercel.app/api?username=jordieh&show_icons=true&count_private=true&hide_rank=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jord1e&theme=dark&hide_border=0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jord1e&theme=dark&hide_border=0&langs_count=6&layout=compact)
 -->
