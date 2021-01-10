@@ -3,7 +3,7 @@ I am a 1<sup>st</sup> year IT student at [hogeschool Windesheim](https://www.win
 
 #### 📚 These are my most used programming languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jord1e&theme=dark&hide_border=0&langs_count=8&layout=compact&hide_title=0)
+![Top Languages](https://github-readme-stats-silk-chi.vercel.app/api/top-langs/?username=jord1e&theme=github_dark&hide_border=0&langs_count=8&layout=compact&hide_title=0)
 
 
 
