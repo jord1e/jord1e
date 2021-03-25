@@ -9,9 +9,7 @@ I am a 1<sup>st</sup> year IT student at [hogeschool Windesheim](https://www.win
 [<img height="24" width="24" alt="Kotlin" src="/icons/kotlin1.svg"/>][github]
 [<img height="24" width="24" alt="Apache Maven" src="/icons/Apache Maven.svg"/>][github]
 [<img height="24" width="24" alt="Gradle" src="/icons/Gradle.svg"/>][github]
-<br>
 [<img height="24" width="24" alt="Sass" src="/icons/Sass.svg"/>][github]
-<br>
 [<img height="24" width="24" alt="MongoDB" src="/icons/MongoDB.svg"/>][github]
 [<img height="24" width="24" alt="MySQL" src="/icons/MySQL.svg"/>][github]
 [<img height="24" width="24" alt="Redis" src="/icons/Redis.svg"/>][github]
