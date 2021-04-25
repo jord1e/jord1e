@@ -1,9 +1,7 @@
 
 ### Hi there, my name is Jordie 👋
-I am a 1<sup>st</sup> year IT student at [hogeschool Windesheim](https://www.windesheim.nl/).
 
 #### 🛠️ Languages, frameworks and tools
-
 
 [<img height="24" width="24" alt="Java" src="/icons/Java.svg"/>][github]
 [<img height="24" width="24" alt="Kotlin" title="Kotlin" src="/icons/kotlin1.svg"/>][github]
