@@ -1,7 +1,9 @@
+### Hello 👋
 
-### Hi there, my name is Jordie 👋
 
-#### 🛠️ Languages, frameworks and tools
+<!-- ### Hi there, my name is Jordie 👋 -->
+
+<!-- #### 🛠️ Languages, frameworks and tools
 
 [<img height="24" width="24" alt="Java" src="/icons/Java.svg"/>][github]
 [<img height="24" width="24" alt="Kotlin" title="Kotlin" src="/icons/kotlin1.svg"/>][github]
@@ -17,7 +19,7 @@
 ![Top Languages](https://github-readme-stats-silk-chi.vercel.app/api/top-langs/?username=jord1e&theme=github_dark&hide_border=0&langs_count=8&layout=compact&hide_title=0)
 
 
-[github]: https://github.com/jord1e
+[github]: https://github.com/jord1e -->
 
 
 <!--
